@@ -1070,6 +1070,10 @@ padding-bottom: 40px;
     height: auto;
     text-align: left;
     line-height: 44px;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
 }
 
 .Ethic h6 {
