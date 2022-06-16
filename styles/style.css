@@ -309,6 +309,8 @@ border-radius: 20px;
     padding-bottom: 30px;
     margin-left: 60px;
     margin-right: 60px;
+        margin-bottom: 100px;
+
     width: auto;
     height: auto;
     text-align: left;
@@ -697,6 +699,8 @@ border-radius: 20px;
     height: auto;
     margin-left: 40px;
     margin-right: 40px;
+        margin-bottom: 100px;
+
 padding-top: 40px;
 padding-bottom: 40px;
     text-align: left;
@@ -1030,6 +1034,8 @@ padding-bottom: 40px;
 .Valleo {
     margin-left: 50px;
     margin-right: 50px;
+        margin-bottom: 100px;
+
     width: auto;
     height: auto;
     padding-top: 20px;
@@ -1258,6 +1264,8 @@ padding-bottom: 30px;
     height: auto;
     margin-left: 60px;
     margin-right: 60px;
+        margin-bottom: 100px;
+
 padding-top: 30px;
 padding-bottom: 30px;
 
